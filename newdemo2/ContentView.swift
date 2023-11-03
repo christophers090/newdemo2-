@@ -37,6 +37,9 @@ struct ContentView: View {
                             Image(systemName: "star")
                             Image(systemName: "star")
                             Image(systemName: "star")
+                            Image(systemName: "star")
+                            Image(systemName: "star")
+                            Image(systemName: "star")
                         }
                         .foregroundColor(.cyan)
                         
