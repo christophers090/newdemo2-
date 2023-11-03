@@ -55,8 +55,8 @@ struct ContentView: View {
             }
             .padding(20)
             .background(Rectangle().foregroundColor(.white))
-            .cornerRadius(20)
-            .shadow(radius: /*@START_MENU_TOKEN@*/10/*@END_MENU_TOKEN@*/)
+            .cornerRadius(40)
+            .shadow(radius: 40)
             .padding(30)
         }
         
